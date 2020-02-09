@@ -1,0 +1,17 @@
+.post-single-media{
+    width: 80%;
+}
+
+.post-title-bar{
+    width: 30%;
+}
+
+.test-title-bar{
+    width: 80%;
+    height: 43px;
+    background-color: var(--medium-blue);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    box-shadow: 0 0 0 4px rgba(15, 15, 15, 0.144);
+    margin: 0 auto;
+}
